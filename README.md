@@ -1,1 +1,2 @@
 # githubproject
+generate_badge()
